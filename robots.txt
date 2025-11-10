@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://melodious-belekoy-f9aef4.netlify.app/sitemap.xml
